@@ -1,6 +1,6 @@
 # Benthium Showcase
 
-Benthium is a modular business platform designed for dive centers and marine activity operators. This public showcase repository presents the product at a high level without exposing private source code, internal workflows, or sensitive configuration.
+Benthium is a modular business platform designed for dive centers and marine activity operators. This public showcase repository presents the product at a high level under the Hostinium company identity without exposing private source code, internal workflows, or sensitive configuration.
 
 ## Product Positioning
 
@@ -49,7 +49,7 @@ It does not include:
 
 ## Suggested Visual Additions
 
-To make this showcase stronger over time, add:
+To make this company showcase stronger over time, add:
 
 - dashboard screenshot
 - booking screen screenshot
@@ -61,4 +61,4 @@ To make this showcase stronger over time, add:
 ## Status
 
 Private source repository maintained separately.
-Public showcase prepared for portfolio and business presentation.
+Public showcase prepared for company and product presentation.

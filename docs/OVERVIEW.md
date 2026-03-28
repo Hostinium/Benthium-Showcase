@@ -4,7 +4,7 @@ Benthium is intended as an operational platform, not only an admin interface.
 
 It is designed around clear business domains and internal workflows, which makes it a strong fit for:
 
-- SaaS product portfolios
+- company product showcases
 - operational management systems
 - multi-tenant business software case studies
 - Laravel and Nuxt full-stack architecture presentations

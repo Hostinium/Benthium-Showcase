@@ -1,6 +1,6 @@
 # Public Scope
 
-This public showcase repository exists to describe the product without exposing the full implementation.
+This public showcase repository exists to describe the product under the company identity without exposing the full implementation.
 
 Included:
 
