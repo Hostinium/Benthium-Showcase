@@ -20,12 +20,17 @@ Qless is designed for high-throughput service operations that need one system fo
 
 ![Qless platform summary](./assets/qless-platform-summary.svg)
 
+### Capability Overview
+
+![Qless capability overview](./assets/qless-capabilities-overview.svg)
+
 ## What The Public View Intentionally Shows
 
 - multi-currency reporting and commercial summaries
 - trend analysis and company comparison views
 - queue and visitor flow visibility
 - platform breadth at a product-summary level
+- module coverage across booking, POS, finance, HR, reporting, AI, and permissions
 
 ## What The Public View Intentionally Hides
 

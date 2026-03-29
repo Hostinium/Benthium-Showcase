@@ -33,6 +33,8 @@ Public-safe visual summaries based on real Qless screens:
 
 ![Qless platform summary](docs/assets/qless-platform-summary.svg)
 
+![Qless capability overview](docs/assets/qless-capabilities-overview.svg)
+
 More context: [docs/QLess.md](docs/QLess.md)
 
 ## Core Capabilities
