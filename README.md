@@ -21,22 +21,6 @@ Hostinium maintains multiple private products. Public presentation stays at the 
 | **qless** | Queue, booking, and point-of-sale platform for service-led venues | Private source |
 | **DrPure Platform** | Managed web and digital delivery platform for a service business | Private source |
 
-## Featured Product Visuals
-
-### Qless
-
-Public-safe visual summaries based on real Qless screens:
-
-![Qless dashboard overview](docs/assets/qless-dashboard-overview.svg)
-
-![Qless analytics overview](docs/assets/qless-analytics-overview.svg)
-
-![Qless platform summary](docs/assets/qless-platform-summary.svg)
-
-![Qless capability overview](docs/assets/qless-capabilities-overview.svg)
-
-More context: [docs/QLess.md](docs/QLess.md)
-
 ## Core Capabilities
 
 - booking and reception workflows
@@ -77,10 +61,6 @@ It does not include:
 - the private working source repository
 - proprietary operational logic
 - implementation details that would make the products easy to replicate
-
-## Visual Direction
-
-The showcase now includes sanitized public visuals for Qless. Additional product visuals can be added using the same approach: high-level presentation only, no secrets, no source exposure, and no proprietary operational detail.
 
 ## Status
 
