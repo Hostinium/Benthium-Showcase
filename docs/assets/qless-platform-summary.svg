@@ -1,0 +1,83 @@
+<svg width="1400" height="900" viewBox="0 0 1400 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="hero" x1="0" y1="0" x2="1400" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1E293B"/>
+      <stop offset="1" stop-color="#4338CA"/>
+    </linearGradient>
+    <filter id="shadow" x="-20" y="-20" width="1500" height="1000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#0F172A" flood-opacity="0.10"/>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="900" rx="28" fill="#F8FAFC"/>
+  <g filter="url(#shadow)">
+    <rect x="24" y="24" width="1352" height="360" rx="28" fill="url(#hero)"/>
+    <rect x="24" y="420" width="300" height="248" rx="24" fill="#FFFFFF"/>
+    <rect x="350" y="420" width="300" height="248" rx="24" fill="#FFFFFF"/>
+    <rect x="676" y="420" width="300" height="248" rx="24" fill="#FFFFFF"/>
+    <rect x="1002" y="420" width="374" height="248" rx="24" fill="#FFFFFF"/>
+  </g>
+
+  <circle cx="112" cy="92" r="56" fill="#60A5FA" fill-opacity="0.28"/>
+  <text x="112" y="110" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="68" font-weight="800">Q</text>
+
+  <text x="700" y="158" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="800">Qless</text>
+  <text x="700" y="222" text-anchor="middle" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="24">Enterprise ticketing, POS, finance, and HR workflows in one operational platform.</text>
+  <text x="700" y="258" text-anchor="middle" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="24">Public summary adapted for portfolio use under the Hostinium company identity.</text>
+
+  <text x="404" y="322" text-anchor="middle" fill="#A5B4FC" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">+205,000</text>
+  <text x="404" y="354" text-anchor="middle" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="20">Lines of source code</text>
+  <text x="642" y="322" text-anchor="middle" fill="#A5B4FC" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">+2,888</text>
+  <text x="642" y="354" text-anchor="middle" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="20">Development hours</text>
+  <text x="838" y="322" text-anchor="middle" fill="#A5B4FC" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">147</text>
+  <text x="838" y="354" text-anchor="middle" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="20">Data models</text>
+  <text x="1036" y="322" text-anchor="middle" fill="#A5B4FC" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">160</text>
+  <text x="1036" y="354" text-anchor="middle" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="20">Database tables</text>
+
+  <circle cx="174" cy="500" r="28" fill="#EEF2FF"/>
+  <text x="174" y="514" text-anchor="middle" fill="#6366F1" font-family="Segoe UI Emoji, Segoe UI Symbol, Arial" font-size="28">◈</text>
+  <text x="174" y="566" text-anchor="middle" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="60" font-weight="800">489</text>
+  <text x="174" y="612" text-anchor="middle" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="24">Views and templates</text>
+
+  <circle cx="500" cy="500" r="28" fill="#ECFDF5"/>
+  <text x="500" y="514" text-anchor="middle" fill="#10B981" font-family="Segoe UI Emoji, Segoe UI Symbol, Arial" font-size="28">⚙</text>
+  <text x="500" y="566" text-anchor="middle" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="60" font-weight="800">116</text>
+  <text x="500" y="612" text-anchor="middle" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="24">Controllers</text>
+
+  <circle cx="826" cy="500" r="28" fill="#FEF3C7"/>
+  <text x="826" y="514" text-anchor="middle" fill="#F59E0B" font-family="Segoe UI Emoji, Segoe UI Symbol, Arial" font-size="28">⇄</text>
+  <text x="826" y="566" text-anchor="middle" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="60" font-weight="800">130</text>
+  <text x="826" y="612" text-anchor="middle" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="24">Business services</text>
+
+  <circle cx="1189" cy="500" r="28" fill="#DBEAFE"/>
+  <text x="1189" y="514" text-anchor="middle" fill="#3B82F6" font-family="Segoe UI Emoji, Segoe UI Symbol, Arial" font-size="28">▣</text>
+  <text x="1189" y="566" text-anchor="middle" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="60" font-weight="800">2,506</text>
+  <text x="1189" y="612" text-anchor="middle" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="24">Database fields</text>
+
+  <g filter="url(#shadow)">
+    <rect x="24" y="700" width="204" height="156" rx="22" fill="#FFFFFF"/>
+    <rect x="254" y="700" width="204" height="156" rx="22" fill="#FFFFFF"/>
+    <rect x="484" y="700" width="204" height="156" rx="22" fill="#FFFFFF"/>
+    <rect x="714" y="700" width="204" height="156" rx="22" fill="#FFFFFF"/>
+    <rect x="944" y="700" width="204" height="156" rx="22" fill="#FFFFFF"/>
+    <rect x="1174" y="700" width="202" height="156" rx="22" fill="#FFFFFF"/>
+  </g>
+
+  <text x="126" y="772" text-anchor="middle" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Multi-language</text>
+  <text x="126" y="810" text-anchor="middle" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="20">Localized UI and reports</text>
+
+  <text x="356" y="756" text-anchor="middle" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">4 currencies</text>
+  <text x="356" y="794" text-anchor="middle" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="20">EGP, USD, EUR, GBP</text>
+
+  <text x="586" y="772" text-anchor="middle" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Triple sync</text>
+  <text x="586" y="810" text-anchor="middle" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="20">Operational data alignment</text>
+
+  <text x="816" y="772" text-anchor="middle" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">AI powered</text>
+  <text x="816" y="810" text-anchor="middle" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="20">Automation-ready workflows</text>
+
+  <text x="1046" y="772" text-anchor="middle" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Cloud ready</text>
+  <text x="1046" y="810" text-anchor="middle" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="20">Scalable deployment model</text>
+
+  <text x="1275" y="772" text-anchor="middle" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Web and mobile</text>
+  <text x="1275" y="810" text-anchor="middle" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="20">Operational access everywhere</text>
+</svg>
