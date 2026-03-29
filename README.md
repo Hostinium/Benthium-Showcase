@@ -66,9 +66,9 @@ Benthium is part of the wider Hostinium product portfolio.
 | Product | Public Presence | Summary |
 | --- | --- | --- |
 | **Benthium** | This showcase repository | Operations platform for bookings, fleet workflows, staffing, inventory, and reporting |
-| **CaptureXPro** | Portfolio brief | Structured document capture and processing application |
-| **qless** | Portfolio brief | Queue, booking, and point-of-sale platform for service-led venues |
-| **DrPure Platform** | Portfolio brief | Managed web and digital delivery platform for a service business |
+| **CaptureXPro** | Dedicated public showcase | Structured document capture and processing application |
+| **qless** | Dedicated public showcase | Queue, booking, and point-of-sale platform for service-led venues |
+| **DrPure** | Dedicated public showcase | Managed web and digital delivery platform for a service business |
 
 See the Hostinium portfolio map: [Public portfolio structure](https://github.com/Hostinium/.github/blob/main/docs/PORTFOLIO.md)
 
